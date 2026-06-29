@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from 'react';
-import './globals.css';
+import './globals.css'; // <--- MAKE SURE THIS IS EXACTLY HERE
 
 // 10 Core Industries and their respective 3 primary tools (30 tools total)
 const INST_MATRIX = {
